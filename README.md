@@ -66,4 +66,4 @@
 
 
 
-<sub><sup>this repo is satire in spite of Githubs PR stunt to remove Master</sup></sub>
+<sub><sup>This repo is satire & filled with memes in spite of Githubs PR stunt to remove Master</sup></sub>
